@@ -1,0 +1,4 @@
+# DEBUG = True
+# API KEY = ''
+# DATABASE_USERNAME = ''
+# DATABASE_PASSWORD = ''
